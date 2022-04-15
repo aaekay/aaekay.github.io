@@ -48,7 +48,7 @@ linkedin_username: amitkumaraaekay
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Amit and I'm a medical doctor trained at All India Institue of Medical Sciences, Delhi currently working as a project associate at CSIR - IGIB to solve problems that can help clinicians to treat patients.
+  Hi, my name's Amit and I'm a medical doctor trained at All India Institue of Medical Sciences, Delhi currently working as a project associate at CSIR - IGIB to solve problems that can help clinicians to make more efficient decisions while dealing with the patients.
 
 
   My interest includes applicatin of artificial and automated systems in delivering accessible and affordabl healthcare.
@@ -62,7 +62,7 @@ content:
         link: t.me/aaekay_bot
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - #title:  sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
