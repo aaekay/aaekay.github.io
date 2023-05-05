@@ -70,22 +70,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: CSIR - IGIB
-        link: https://vinodscaria.rnabiology.org/
+        title: IIT, New Delhi
+        link: 
         # link_text: boringcompany.com
-        sub_title: Project Associate
-        caption: February 2022 - Present
+        sub_title: Research Fellow
+        caption: April 2023 - Present
         quote: >
-          Problems are not defined by the tools you want to use, tools are defined by the problems you want to solve
+          The evolution sped up when biological organisms developed photoreceptors
         description: | # this will include new lines to allow paragraphs
-            We solve problems related to rare genetic diseases and ask the questions underlying the genetic information theory.
+            We solve problems related to computer vision in medical healthcare.
+            
+      - layout: left
+        title: AIIMS, New Delhi
+        link: 
+        # link_text: boringcompany.com
+        sub_title: Non-Acad Junior Resident
+        caption: July 2022 - Jan 2023
+        quote: >
+          Checkout club 27
+        description: | # this will include new lines to allow paragraphs
+            Mostly drug deaddiction and rehabilitation work
             
       - layout: left
         title: CSIR - IGIB
         link: https://vinodscaria.rnabiology.org/
         # link_text: boringcompany.com
         sub_title: Project Associate
-        caption: February 2022 - Present
+        caption: February 2022 - July 2022
         quote: >
           Problems are not defined by the tools you want to use, tools are defined by the problems you want to solve
         description: | # this will include new lines to allow paragraphs
