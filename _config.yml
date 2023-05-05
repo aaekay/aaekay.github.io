@@ -68,7 +68,7 @@ content:
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    content: |
       - layout: left
         title: CSIR - IGIB
         link: https://vinodscaria.rnabiology.org/
@@ -79,6 +79,17 @@ content:
           Problems are not defined by the tools you want to use, tools are defined by the problems you want to solve
         description: | # this will include new lines to allow paragraphs
             We solve problems related to rare genetic diseases and ask the questions underlying the genetic information theory.
+        
+        title: CSIR - IGIB
+        link: https://vinodscaria.rnabiology.org/
+        # link_text: boringcompany.com
+        sub_title: Project Associate
+        caption: February 2022 - Present
+        quote: >
+          Problems are not defined by the tools you want to use, tools are defined by the problems you want to solve
+        description: | # this will include new lines to allow paragraphs
+            We solve problems related to rare genetic diseases and ask the questions underlying the genetic information theory.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
