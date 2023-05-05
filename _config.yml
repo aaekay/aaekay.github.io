@@ -68,7 +68,7 @@ content:
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content: |
+    content:
       - layout: left
         title: CSIR - IGIB
         link: https://vinodscaria.rnabiology.org/
