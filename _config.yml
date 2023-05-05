@@ -79,7 +79,7 @@ content:
           Problems are not defined by the tools you want to use, tools are defined by the problems you want to solve
         description: | # this will include new lines to allow paragraphs
             We solve problems related to rare genetic diseases and ask the questions underlying the genetic information theory.
-        
+      - layout: left
         title: CSIR - IGIB
         link: https://vinodscaria.rnabiology.org/
         # link_text: boringcompany.com
